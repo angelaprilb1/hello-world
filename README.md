@@ -1,5 +1,5 @@
 # hello-world
-Something to help me learn this stuff
+Something to help me learn this stuff so I can grow
 
 My goal this year was to pass AZ 104 and goal was met.
 
